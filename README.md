@@ -24,6 +24,7 @@ multimedia-hw1"
   - `bee_near.jpg`
   - `bee_linear.jpg`
 ## *3. Photo enhancement*
+### execution
 - go to `3.ipynb`
 - Please adjust `gamma_value` to customize the interpolation ratio. In this assignment, `gamma_value` is 5
 - click `Run all` to see the output
